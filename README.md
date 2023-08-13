@@ -2,7 +2,7 @@
 ## 📖 About Data
 Information about the salaries of jobs in the Data Science domain, including Data Scientist Data Engineer Data Analyst Machine Research Scientist.
 
-Reference [Kaggle.com](https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries)
+Data Source [Kaggle.com](https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries)
 
 ## 🖍️ Highlights
 - Data scientists has the highest number, followed by Data engineers and Data analyst.
