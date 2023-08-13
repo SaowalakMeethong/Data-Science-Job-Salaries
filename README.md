@@ -12,7 +12,8 @@ Reference [Kaggle.com](https://www.kaggle.com/datasets/ruchi798/data-science-job
 - When looking at the number of types of employment by company size, it was found that the number of types of full-time employment was the highest.
 - When looking at the number of people classified by level of expertise, it was found that the senior level was the most
 ## 📊 Visualization
-![https://github.com/SaowalakMeethong/Data-Scientist-Salary/assets/142102520/b4ef24f2-6cd4-428c-869a-cfc721e2ae34]()
+![](https://github.com/SaowalakMeethong/Data-Scientist-Salary/assets/142102520/b4ef24f2-6cd4-428c-869a-cfc721e2ae34)
+
 
 
 
