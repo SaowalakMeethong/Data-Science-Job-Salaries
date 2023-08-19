@@ -10,7 +10,7 @@ Data Source [Kaggle.com](https://www.kaggle.com/datasets/ruchi798/data-science-j
 - When classifying the average salary by level of expertise, it was found that the Expert level had an average salary of 199,000 dollars.
 - When looking at the number of people classified by the size of companies that consist of S, M, and L, it was found that M-sized companies had the largest number, accounting for 53%.
 - When looking at the number of types of employment by company size, it was found that the number of types of full-time employment was the highest.
-- When looking at the number of people classified by level of expertise, it was found that the senior level was the most
+- When looking at the number of people classified by level of expertise, it was found that the senior level was the most.
 ## 📊 Visualization
 ### Screenshot
 ![](https://github.com/SaowalakMeethong/Data-Scientist-Salary/assets/142102520/6e53ae55-7931-48a3-bf37-91eb48a52a23)
