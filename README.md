@@ -1,6 +1,6 @@
 # 🔍 Data-Science-Job-Salaries
 ## 📖 About Data
-Information about the salaries of jobs in the Data Science domain, including Data Scientist Data Engineer Data Analyst Machine Research Scientist.
+The data about the salaries of jobs in the Data Science domain, including Data Scientist Data Engineer Data Analyst Machine Research Scientist.
 
 Data Source [Kaggle.com](https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries)
 
